@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="keyvis" APIVersion="16" Name="WhoPlus" Description="Extended Who.">
+    <Script Name="WhoPlus.lua"/>
+    <Form Name="WhoPlus.xml"/>
+    <ReplaceAddon Name="Who"/>
+</Addon>
